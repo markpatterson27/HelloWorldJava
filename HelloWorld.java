@@ -1,6 +1,6 @@
-// class that outputs 'hello world' on the command line.
+// hello world exercise
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World.");
+        // add code that prints 'hello world' to std output
     }
 }
